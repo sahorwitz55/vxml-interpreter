@@ -1,10 +1,9 @@
-#summary One-sentence summary of this page.
 #labels Featured
 [http://code.google.com/p/vxml-interpreter/w/edit New] [http://code.google.com/p/vxml-interpreter/w/edit/WikiMain Edit] 
 
 = Introduction =
+*vxml-interpreter*
 
-Add your content here.
 
 
 = Details =
