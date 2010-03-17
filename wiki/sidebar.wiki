@@ -2,9 +2,7 @@
 
 == menu ==
 
-[MainPage]
+[MainPage WikiMain]
 
 [DevEnv]
-
-
 
